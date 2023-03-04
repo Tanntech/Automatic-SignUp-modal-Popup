@@ -1,0 +1,2 @@
+# Automatic-SignUp-modal-Popup-using-Advanced-JS
+ I have used Advanced JS to create a modal popup which automatically occurs when page loads without clicking anything.It is basically a Signup-Login page which automatically occurs after few seconds with the help of js function.I have tried to make it as simple as possible by mainting its dynamicness also .It will further restrict user from visiting the land page and will allow only when he or she is registerd or Logged in to page website
